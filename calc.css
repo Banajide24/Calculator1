@@ -1,0 +1,17 @@
+table,
+th,
+td {
+  border: 1px solid white;
+  background-color: gray;
+}
+th,
+td {
+  border-radius: 5px;
+  border-color: white;
+}
+input {
+  border-radius: 10px;
+}
+table {
+  border-radius: 10px;
+}
